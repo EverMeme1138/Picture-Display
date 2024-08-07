@@ -1,7 +1,7 @@
 # Picture-Display
 Picture Display for your desktop
 
-![image]()
+![image](https://github.com/EverMeme1138/Picture-Display/blob/main/image.png)
 
 ## Features
 - Image Display
