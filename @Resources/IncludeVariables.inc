@@ -1,0 +1,10 @@
+[Variables]
+MainColor=26,36,55,255
+SecondaryColor=201,220,255,255
+Custom_MainColor=30,30,30,120
+Custom_SecondaryColor=255,255,255
+Shadow=1
+NOT_Shadow=0
+BarHeight=40
+Scale=0.8
+FontSize=12
