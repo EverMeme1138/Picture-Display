@@ -9,6 +9,12 @@ Picture Display for your desktop
 - 4 default color scheme & custom color scheme
 - Easy-to-use setting provided
 
+## Instructions
+### Color code format: Red, Green, Blue, (Transparency)
+- If transparency is unspecified, it is defaulted as 255 (i.e. solidcolor)
+- e.g. 255,0,0 for solid red / 255,0,0,120 for a semi-transparent red
+
+
 ## Credits
 theAzack9 for the [Drag&Drop plugin](https://forum.rainmeter.net/viewtopic.php?t=23107).\
 Inspired by the work of [KazukiGames82](https://github.com/KazukiGames82).\
