@@ -13,11 +13,14 @@ Picture Display for your desktop
 ### Color code format: Red, Green, Blue, (Transparency)
 - If transparency is unspecified, it is defaulted as 255 (i.e. solidcolor)
 - e.g. 255,0,0 for solid red / 255,0,0,120 for a semi-transparent red
+### USE TRANSPARENT AT YOUR OWN RISK (the text in setting will become invisible)
+- Delete the `[FrostedGlass]` measure if the blur is behaving weird in windows 10
 
 
 ## Credits
-theAzack9 for the [Drag&Drop plugin](https://forum.rainmeter.net/viewtopic.php?t=23107).\
+[theAzack9](https://github.com/TheAzack9) for the [Drag&Drop plugin](https://forum.rainmeter.net/viewtopic.php?t=23107).\
 Inspired by the work of [KazukiGames82](https://github.com/KazukiGames82).\
+theAzack9 / KazukiGames82 / [khanhas](https://github.com/khanhas) / [Meti0X7CB](https://github.com/Meti0X7CB): [FrostedGlass](https://github.com/KazukiGames82/FrostedGlass) Plugin\
 Special thanks to people on [Rainmeter discord server](https://discord.gg/rainmeter) who helped me with this project.\
 Font used: [IBM Plex Mono](https://fonts.google.com/specimen/IBM+Plex+Mono)
 
